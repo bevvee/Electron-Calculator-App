@@ -5,12 +5,9 @@ An Electron-based desktop calculator app built with HTML, CSS, JavaScript, and E
 ## Features
 
 - Basic arithmetic operations (addition, subtraction, multiplication, division).
-- Advanced operations (square root, exponentiation, trigonometric functions).
-- Memory functions (M+, M-, MR, MC) for storing and retrieving results.
 - Calculation history for reviewing and reusing previous calculations.
 - Keyboard support for efficient input.
 - Responsive design for various screen sizes and resolutions.
-- Theme customization to personalize the app's appearance.
 - Cross-platform support for Windows, macOS, and Linux.
 
 ## Prerequisites
