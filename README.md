@@ -2,6 +2,9 @@
 
 An Electron-based desktop calculator app built with HTML, CSS, JavaScript, and ElectronJS.
 
+<p href="https://visitorbadge.io/status?path=https://github.com/bevvee/Electron-Calculator-App" align=center><img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/bevvee/Electron-Calculator-App&label=%F0%9F%A5%B3VISITORS&labelColor=%23ffff00&countColor=%23263759" /><p>
+<br />
+
 ## Features
 
 - Basic arithmetic operations (addition, subtraction, multiplication, division).
