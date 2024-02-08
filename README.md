@@ -34,10 +34,10 @@ git clone https://github.com/yourusername/electron-calculator-app.git
    cd electron-calculator-app
 ```
 
-3. axtact the project dependencies:
+3. Install the project dependencies:
    
 ```
-  node_modules
+  npm install 
 ```
 
 Usage
